@@ -4,7 +4,8 @@ from objects.Event import Event
 
 """
 Execute unit tests
-python {project_path}/unit_tests/u_tests_event.py
+# PYTHONPATH={project_path}
+# python unit_tests/u_tests_event.py
 
 """
 

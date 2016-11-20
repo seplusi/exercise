@@ -10,7 +10,7 @@ deals = {'deal1': {'retention': 100, 'limit': 500, 'perils': ['earthquake'], 're
 
 """
 To run the functional tests:
-# nosetests -v {project path}/untitled/test_cases/test_events_exercise.py  --tc-format python --nologcapture --with-nose-testrail
+# nosetests -v {project path}/untitled/test_cases/test_events_exercise.py  --tc-format python --nologcapture
 """
 
 
