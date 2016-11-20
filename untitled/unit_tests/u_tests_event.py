@@ -4,8 +4,7 @@ from objects.Event import Event
 
 """
 Execute unit tests
-PYTHONPATH=/home/dev/PycharmProjects/untitled
-python unit_tests/u_tests_event.py
+python {project_path}/unit_tests/u_tests_event.py
 
 """
 
